@@ -27,7 +27,7 @@ classes = ["person"]
 8、运行train.py即可开始训练。  
 
 ### 模型效果
+![Image text](https://github.com/KaGen1999/Yolov3HeadDetector/blob/master/result.jpg)
 
-
-### Reference
+### 代码来自
 https://github.com/bubbliiiing/yolo3-keras
