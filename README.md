@@ -29,5 +29,8 @@ classes = ["person"]
 ### 模型效果
 ![Image text](https://github.com/KaGen1999/Yolov3HeadDetector/blob/master/result.jpg)
 
+### 模型
+链接: https://pan.baidu.com/s/1IUGpCMZc0IRg18U2hxqJHQ 提取码: 5fps
+
 ### 代码来自
 https://github.com/bubbliiiing/yolo3-keras
